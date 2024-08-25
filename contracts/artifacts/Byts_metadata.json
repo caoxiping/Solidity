@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getBytes",
+				"outputs": [
+					{
+						"internalType": "bytes3",
+						"name": "byt",
+						"type": "bytes3"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Byts.sol": "Byts"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Byts.sol": {
+			"keccak256": "0x3332d25f0e96bb05829d4895183d3c7b8615ba2b73797ac692b921fd105ca686",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://fc7be9695f048db87976c560cd32dcc0993d8acd4a13623894d67abc2cb829b1",
+				"dweb:/ipfs/QmQGN1jGoy6VULHQzhb2y6XdopiZ3GZGXEegQPW8KmNS9a"
+			]
+		}
+	},
+	"version": 1
+}
